@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @humanbeast01
+- 👋 Hi, I’m Mukul Goswami (@humanbeast01)
 - 👀 I’m interested in Passionate and Innovation of New Softwares 
 - 🌱 I’m currently learning MERN stack And working On Django
 - 💞️ I’m looking to collaborate on ...
